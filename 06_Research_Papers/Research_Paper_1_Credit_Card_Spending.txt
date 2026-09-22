@@ -1,0 +1,46 @@
+RESEARCH PAPER 1
+Credit Card Spending Analysis by Category
+
+**1. Abstract**
+Credit cards are commonly used for shopping, bills, travel, food, and other expenses. Credit card transactions generate useful data that can be analyzed to understand spending patterns. This paper discusses how data analytics can be used to study credit card spending using transaction data.
+
+**2. Introduction**
+Credit card transaction data contains information such as transaction amount, date, card type, expense category, city, and gender. Analyzing this information helps identify spending patterns and summarize large amounts of transaction data.
+
+**3. Objectives**
+
+* Analyze credit card spending patterns.
+* Identify major expense categories.
+* Compare spending across card types.
+* Analyze spending by city and gender.
+* Study monthly spending trends.
+* Present findings using data visualization.
+
+**4. Methodology**
+The project uses a cleaned credit card transaction dataset. MySQL is used to store the data and SQL is used for querying. Python, Pandas, and NumPy are used for data processing and analysis. Matplotlib and Seaborn are used to create charts and visualizations.
+
+**5. Analysis**
+The project analyzes:
+
+* Total and average transaction amounts
+* Spending by expense category
+* Spending by card type
+* Spending by city
+* Spending by gender
+* Monthly spending trends
+* Expense type and card type relationships
+
+**6. Key Findings**
+The analysis shows that spending is distributed differently across expense categories, card types, cities, and months. Visualizations make these differences easier to identify. The results describe the patterns present in the provided dataset and should not be considered representative of all credit card users.
+
+**7. Limitations**
+
+* The analysis uses only the available dataset.
+* The dataset may not represent the entire population.
+* Transaction data shows spending activity but not the reasons behind purchases.
+* The analysis is mainly descriptive.
+
+**8. Conclusion**
+Credit card transaction data can provide useful information about spending behaviour. Using SQL, Python, and visualization tools makes it easier to analyze large transaction datasets and present meaningful insights.
+
+

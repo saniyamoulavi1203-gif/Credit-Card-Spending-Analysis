@@ -1,0 +1,56 @@
+RESEARCH PAPER 2
+Use of Python, SQL and Power BI in Data Analysis
+
+**Title: Technology Used in Credit Card Spending Analysis**
+
+**1. Abstract**
+This paper explains the technologies used to analyze credit card transaction data. The project uses MySQL, SQL, Python, Pandas, NumPy, Jupyter Notebook, Matplotlib, Seaborn, and Power BI. These technologies help with data storage, retrieval, analysis, visualization, and reporting.
+
+**2. Introduction**
+Data analytics projects require different technologies to handle data from beginning to end. In this project, MySQL is used as the database, Python is used for data processing, and Power BI is used to create an interactive dashboard.
+
+**3. Technologies Used**
+
+* **MySQL:** Stores the credit card transaction data.
+* **SQL:** Retrieves, filters, groups, and summarizes database records.
+* **Python:** Connects to the database and supports data analysis.
+* **Pandas:** Used for data cleaning and DataFrame operations.
+* **NumPy:** Used for numerical calculations.
+* **Jupyter Notebook:** Provides an interactive environment for analysis.
+* **Matplotlib:** Creates charts and graphs.
+* **Seaborn:** Creates statistical visualizations and heatmaps.
+* **Power BI:** Presents the final analysis through an interactive dashboard.
+
+**4. Methodology**
+
+The technology workflow is:
+
+**MySQL → SQL → Python → Pandas/NumPy → Matplotlib/Seaborn → Power BI**
+
+Data is stored in MySQL, retrieved using SQL/Python, cleaned and analyzed using Pandas and NumPy, visualized using Matplotlib and Seaborn, and finally presented in Power BI.
+
+**5. Benefits**
+
+* Faster data processing
+* Organized database storage
+* Easy data cleaning
+* Simple statistical analysis
+* Clear visualizations
+* Interactive dashboard reporting
+
+**6. Limitations**
+
+* Requires correct database configuration.
+* Python libraries need to be installed.
+* Power BI dashboards depend on correctly prepared data.
+* Large datasets may require more processing resources.
+
+**7. Future Scope**
+
+The project could be extended by using machine learning for prediction, automated database updates, real-time dashboards, and more advanced transaction analysis.
+
+**8. Conclusion**
+
+The combination of MySQL, SQL, Python, and Power BI provides a complete workflow for credit card spending analysis. Each technology performs a different role, from storing and retrieving data to analyzing and presenting the final results.
+
+
